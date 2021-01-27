@@ -54,6 +54,7 @@ main{
 }
 .course img{
     width: 200px;
+    height: 90px;
 }
 .course-info{
     display: flex;
